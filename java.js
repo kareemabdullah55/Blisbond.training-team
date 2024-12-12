@@ -7,6 +7,10 @@ const pdfData = [
   { name: 'Robin', url: 'https://drive.google.com/file/d/19blkk7odsk0utlUOew7KfKdCENiZRNs4/view?usp=sharing' },
   { name: 'S1', url: 'https://drive.google.com/file/d/1V6uEPYo_CwB5nkeMZ8ot5vw2P9jHCsEq/view?usp=sharing' },
   { name: 'SP1', url: 'https://drive.google.com/file/d/120dWLwUgysCG50VXASnHeTk59ZG6jCoT/view?usp=sharing' },
+  { name: 'PS-one', url: 'https://drive.google.com/file/d/1n1I1jorhPliBV4_cvCtOoQJoZTHkM6sz/view?usp=sharing' },
+  { name: 'PB-one', url: 'https://drive.google.com/file/d/1_X5Ubwya-o5P-BAXaOM6rMursFpSyON2/view?usp=sharing' },
+  { name: 'V20', url: 'https://drive.google.com/file/d/1A_B0HTw0X9eDCkAaZfW61ZEP9HUVC7q7/view?usp=sharing' },
+  { name: 'V60', url: 'https://drive.google.com/file/d/1lTuipCzlqhILiP8M_ZIJGWYnDRObV9n9/view?usp=sharing' }
 ];
 function generateTableRows() {
   const tableBody = document.getElementById('table-body');

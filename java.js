@@ -10,6 +10,9 @@ const pdfData = [
   { name: 'PS-one', url: 'https://drive.google.com/file/d/1n1I1jorhPliBV4_cvCtOoQJoZTHkM6sz/view?usp=sharing' },
   { name: 'PB-one', url: 'https://drive.google.com/file/d/1_X5Ubwya-o5P-BAXaOM6rMursFpSyON2/view?usp=sharing' },
   { name: 'V20', url: 'https://drive.google.com/file/d/1A_B0HTw0X9eDCkAaZfW61ZEP9HUVC7q7/view?usp=sharing' },
+  { name: 'V30', url: 'https://drive.google.com/file/d/1fdw3SYlMiscilksaa4fpMEXdFLEQvZ9f/view?usp=sharing' },
+  { name: 'V40', url: 'https://drive.google.com/file/d/18bN9ySA9hFnOriUlpP-DxxOG8vgD7Nbc/view?usp=sharing' },
+  { name: 'PJ-two', url: 'https://drive.google.com/file/d/1vJ7nV7IxqLqQsZJWM5tCpcVWvHQc1Uwn/view?usp=sharing' },
   { name: 'V60', url: 'https://drive.google.com/file/d/1lTuipCzlqhILiP8M_ZIJGWYnDRObV9n9/view?usp=sharing' }
 ];
 function generateTableRows() {

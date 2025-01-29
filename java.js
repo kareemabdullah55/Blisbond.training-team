@@ -1,5 +1,9 @@
 const pdfData = [
   { name: 'B20', url: 'https://drive.google.com/file/d/160foVMAyJFBOFlb-0PsJ8fv-fLNcba96/view?usp=sharing' },
+  { name: 'QC06', url: 'https://prezi.com/view/dy87nO0sKZKALCWgauak/' },
+  { name: 'AP2', url: 'https://prezi.com/view/beI2hvsNqPaxb7CMovmb/' },
+   { name: 'projector Ts7', url: 'https://prezi.com/view/psmAKH0Ys6x5MoBXCI7y/' },
+    { name: 'Washing Machine X13', url: 'https://prezi.com/view/paCWSeZvdYEvneSQnXzw/' },
   { name: 'bs', url: 'https://drive.google.com/file/d/1Fa6QejvivnWxBlRBpUPHBU8Om_vRyAYS/view?usp=sharing' },
   { name: 'GTR1', url: 'https://drive.google.com/file/d/1rcJqRSAI1j8lgtz9yMMuLDAuj3bH-5Pu/view?usp=sharing' },
   { name: 'MP1', url: 'https://drive.google.com/file/d/1IjihiT4sUoXrand7xIo-gBlG-9CKohhV/view?usp=sharing' },
